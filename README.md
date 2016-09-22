@@ -1,3 +1,4 @@
 # workflow
 Git workflow experiments
-A
+a=2
+b=3
